@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Load labels dataset
-labels_file_path = "C:\\Users\\Anu\\Documents\\SEM_04\\ML\\PROJECT\\Legality prediction\\label.xlsx"
+labels_file_path = "C:\\Users\\mahad\\OneDrive\\Desktop\\SEM 4 Courses\\ML\\Legality\\Datasets\\label (1).xlsx"
 labels_df = pd.read_excel(labels_file_path)
 
 # Extract labels starting from the second row of the first column
