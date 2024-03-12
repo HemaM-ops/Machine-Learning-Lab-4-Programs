@@ -3,8 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load your dataset
-dataset_file_path = "C:\\Users\\Anu\\Documents\\SEM_04\\ML\\PROJECT\\Legality prediction\\English_Abstractive_Embeddings_Fasttext.xlsx"
-
+dataset_file_path = "C:\\Users\\mahad\\OneDrive\\Desktop\\SEM 4 Courses\\ML\\Legality\\Datasets\\English_Abstractive_Embeddings_Fasttext.xlsx"
 dataset_df = pd.read_excel(dataset_file_path)
 
 # Choosing a feature from your dataset
