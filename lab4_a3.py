@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load embeddings dataset
-embeddings_file_path = "C:\\Users\\Anu\\Documents\\SEM_04\\ML\\PROJECT\\Legality prediction\\English_Abstractive_Embeddings_Fasttext.xlsx"
+embeddings_file_path = "C:\\Users\\mahad\\OneDrive\\Desktop\\SEM 4 Courses\\ML\\Legality\\Datasets\\English_Abstractive_Embeddings_Fasttext.xlsx"
 
 embeddings_df = pd.read_excel(embeddings_file_path, header=None)
 
